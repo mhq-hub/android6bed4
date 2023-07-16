@@ -28,6 +28,6 @@ jobs:
   uses: actions/download-artifact@v2.1.1
   with:
     # Artifact name
-    name: # optional
+    name:0 # optional
     # Destination path
-    path: # optional
+    path:0 # optional
